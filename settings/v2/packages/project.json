@@ -1,0 +1,38 @@
+{
+  "__version__": "1.0.4",
+  "general": {
+    "designResolution": {
+      "width": 640,
+      "height": 1336,
+      "fitWidth": false,
+      "fitHeight": false
+    },
+    "highQuality": false
+  },
+  "custom_joint_texture_layouts": [],
+  "script": {
+    "loose": false
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "BULLET"
+      },
+      {
+        "index": 2,
+        "name": "HERO"
+      },
+      {
+        "index": 3,
+        "name": "PROP"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 6,
+      "1": 5,
+      "2": 11,
+      "3": 4
+    }
+  }
+}

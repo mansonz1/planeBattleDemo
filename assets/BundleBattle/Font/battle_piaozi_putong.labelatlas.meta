@@ -1,0 +1,135 @@
+{
+  "ver": "1.0.1",
+  "importer": "label-atlas",
+  "imported": true,
+  "uuid": "63438bd6-b9f1-452d-bf0e-228690f0a46a",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "itemWidth": 14,
+    "itemHeight": 18,
+    "fontSize": 15.84,
+    "startChar": "0",
+    "spriteFrameUuid": "b4d12bc6-a993-466a-88fb-1db77dbc9a06@f9941",
+    "_fntConfig": {
+      "commonHeight": 18,
+      "fontSize": 15,
+      "atlasName": "battle_piaozi_putong",
+      "fontDefDictionary": {
+        "48": {
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 14,
+            "height": 18
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 14
+        },
+        "49": {
+          "rect": {
+            "x": 14,
+            "y": 0,
+            "width": 14,
+            "height": 18
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 14
+        },
+        "50": {
+          "rect": {
+            "x": 28,
+            "y": 0,
+            "width": 14,
+            "height": 18
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 14
+        },
+        "51": {
+          "rect": {
+            "x": 42,
+            "y": 0,
+            "width": 14,
+            "height": 18
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 14
+        },
+        "52": {
+          "rect": {
+            "x": 56,
+            "y": 0,
+            "width": 14,
+            "height": 18
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 14
+        },
+        "53": {
+          "rect": {
+            "x": 70,
+            "y": 0,
+            "width": 14,
+            "height": 18
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 14
+        },
+        "54": {
+          "rect": {
+            "x": 84,
+            "y": 0,
+            "width": 14,
+            "height": 18
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 14
+        },
+        "55": {
+          "rect": {
+            "x": 98,
+            "y": 0,
+            "width": 14,
+            "height": 18
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 14
+        },
+        "56": {
+          "rect": {
+            "x": 112,
+            "y": 0,
+            "width": 14,
+            "height": 18
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 14
+        },
+        "57": {
+          "rect": {
+            "x": 126,
+            "y": 0,
+            "width": 14,
+            "height": 18
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 14
+        }
+      },
+      "kerningDict": {}
+    }
+  }
+}

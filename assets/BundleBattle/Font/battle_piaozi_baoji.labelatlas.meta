@@ -1,0 +1,135 @@
+{
+  "ver": "1.0.1",
+  "importer": "label-atlas",
+  "imported": true,
+  "uuid": "b938cc4c-38f0-4eff-9bda-f31eb83af9e7",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "itemWidth": 17,
+    "itemHeight": 22,
+    "fontSize": 19.36,
+    "startChar": "0",
+    "spriteFrameUuid": "d5edf629-e0ca-4eec-aaed-6dfb8d5bc247@f9941",
+    "_fntConfig": {
+      "commonHeight": 22,
+      "fontSize": 19,
+      "atlasName": "battle_piaozi_baoji",
+      "fontDefDictionary": {
+        "48": {
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 17,
+            "height": 22
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 17
+        },
+        "49": {
+          "rect": {
+            "x": 17,
+            "y": 0,
+            "width": 17,
+            "height": 22
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 17
+        },
+        "50": {
+          "rect": {
+            "x": 34,
+            "y": 0,
+            "width": 17,
+            "height": 22
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 17
+        },
+        "51": {
+          "rect": {
+            "x": 51,
+            "y": 0,
+            "width": 17,
+            "height": 22
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 17
+        },
+        "52": {
+          "rect": {
+            "x": 68,
+            "y": 0,
+            "width": 17,
+            "height": 22
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 17
+        },
+        "53": {
+          "rect": {
+            "x": 85,
+            "y": 0,
+            "width": 17,
+            "height": 22
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 17
+        },
+        "54": {
+          "rect": {
+            "x": 102,
+            "y": 0,
+            "width": 17,
+            "height": 22
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 17
+        },
+        "55": {
+          "rect": {
+            "x": 119,
+            "y": 0,
+            "width": 17,
+            "height": 22
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 17
+        },
+        "56": {
+          "rect": {
+            "x": 136,
+            "y": 0,
+            "width": 17,
+            "height": 22
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 17
+        },
+        "57": {
+          "rect": {
+            "x": 153,
+            "y": 0,
+            "width": 17,
+            "height": 22
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 17
+        }
+      },
+      "kerningDict": {}
+    }
+  }
+}
